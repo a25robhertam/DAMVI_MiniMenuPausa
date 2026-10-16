@@ -1,0 +1,35 @@
+# Carpetas generadas automáticamente por Unity
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Archivos de Visual Studio y otros editores
+
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Archivos temporales y del sistema
+
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación y depuración
+
+*.pdb
+*.mdb
+*.slnx
